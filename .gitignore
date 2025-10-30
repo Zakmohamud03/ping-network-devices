@@ -1,0 +1,15 @@
+# Ignore ping results
+ping_results.txt
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
