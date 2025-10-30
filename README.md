@@ -23,3 +23,6 @@ Ping Network Devices is a Python tool to check the availability of multiple netw
 
 ```bash
 git clone https://github.com/zakmohamud03/ping-network-devices.git
+## Author
+
+Created Zakaria Abdi Mohamud
