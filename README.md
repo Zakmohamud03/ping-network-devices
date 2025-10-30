@@ -26,6 +26,15 @@ pip install -r requirements.txt
 python ping_devices.py
 3. View the results in the terminal or in the generated `ping_results.txt` file.
 
+## .gitignore
+
+This project includes a `.gitignore` file to prevent uploading generated or system files, such as:
+
+- `ping_results.txt`
+- Python cache files (`__pycache__/`, `*.pyc`, `*.pyo`, `*.pyd`)
+- VS Code settings folder (`.vscode/`)
+- OS-specific files (`.DS_Store`, `Thumbs.db`)
+
 ## Licence
 
 This project is released under the MIT Licence:
